@@ -1,4 +1,4 @@
-# Countdow
+# Countdown
 Projeto feito utilizando HTML, CSS e JavaScript.
 
 ##
